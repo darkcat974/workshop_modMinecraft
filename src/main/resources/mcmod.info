@@ -1,0 +1,16 @@
+[
+{
+  "modid": "je suppose",
+  "name": "mmmmmh_mod",
+  "description": "mmmh does something.... mb",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["darkcat974"],
+  "credits": "The workshop",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
